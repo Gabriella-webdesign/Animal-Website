@@ -1,0 +1,31 @@
+.title {
+	color: darkgreen;
+}
+ body {
+   background-color: floralwhite;
+}
+h1 {
+	color:darkgreen
+	}
+p {
+	color: seagreen
+	}
+p1      {
+	color: seagreen
+	}
+
+	ul {
+list-style-type: none;
+margin: 0px;
+padding: 10px;
+background-color: seagreen;
+}
+li {
+display: inline;
+}
+p3{
+    color:seagreen
+}
+p4   {
+     color: seagreen
+}
